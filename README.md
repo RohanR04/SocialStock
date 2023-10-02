@@ -1,7 +1,7 @@
 # Twitter Sentiment Analysis for Tesla Stock
 
 ## Overview
-This project aims to analyze the sentiment of tweets related to Tesla stock in order to assess the impact of social media on its stock price. We utilize the VADER (Valence Aware Dictionary and sEntiment Reasoner) Natural Language Processing (NLP) model to determine sentiment scores for each tweet, which allows us to gauge public sentiment and its potential influence on stock performance. Open twitter_sentiment_analysis.ipynb to see results.
+This project aims to analyze the sentiment of tweets related to Tesla stock in order to assess the impact of social media on its stock price. We utilize the VADER (Valence Aware Dictionary and Sentiment Reasoner) Natural Language Processing (NLP) model to determine sentiment scores for each tweet, which allows us to gauge public sentiment and its potential influence on stock performance. Open twitter_sentiment_analysis.ipynb to see results.
 
 ## Project Components
 1. **Data Collection**: We gather tweets related to Tesla stock using a web scraping tool called snscrape. This includes historical and real-time data, ensuring a comprehensive dataset for analysis.
